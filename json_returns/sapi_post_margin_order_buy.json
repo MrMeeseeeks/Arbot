@@ -1,0 +1,28 @@
+{
+ "clientOrderId": "7nHTcArxrlm6ZgupkviP6i",
+ "cummulativeQuoteQty": "15.02511000",
+ "executedQty": "9.85900000",
+ "fills": [
+  {
+   "commission": "0.00000600",
+   "commissionAsset": "QTUM",
+   "price": "1.52300000",
+   "qty": "0.00600000"
+  },
+  {
+   "commission": "0.00985300",
+   "commissionAsset": "QTUM",
+   "price": "1.52400000",
+   "qty": "9.85300000"
+  }
+ ],
+ "orderId": 107105567,
+ "origQty": "9.85900000",
+ "price": "0.00000000",
+ "side": "BUY",
+ "status": "FILLED",
+ "symbol": "QTUMUSDT",
+ "timeInForce": "GTC",
+ "transactTime": 1587913534449,
+ "type": "MARKET"
+}

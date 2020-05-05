@@ -1,0 +1,243 @@
+{
+ "borrowEnabled": true,
+ "marginLevel": "999.00000000",
+ "totalAssetOfBtc": "0.00269013",
+ "totalLiabilityOfBtc": "0.00000000",
+ "totalNetAssetOfBtc": "0.00269013",
+ "tradeEnabled": true,
+ "transferEnabled": true,
+ "userAssets": [
+  {
+   "asset": "MATIC",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "VET",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "USDT",
+   "borrowed": "0.00000000",
+   "free": "20.70097439",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "20.70097439"
+  },
+  {
+   "asset": "RVN",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "DASH",
+   "borrowed": "0.00000000",
+   "free": "0.00000219",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000219"
+  },
+  {
+   "asset": "ATOM",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "ONT",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "XRP",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "XLM",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "LINK",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "TRX",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "QTUM",
+   "borrowed": "0.00000000",
+   "free": "0.01393861",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.01393861"
+  },
+  {
+   "asset": "XTZ",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "IOST",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "BCH",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "EOS",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "BTC",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "IOTA",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "BAT",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "ETC",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "BNB",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "ETH",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "ZEC",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "NEO",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "USDC",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "LTC",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "BUSD",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "XMR",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  },
+  {
+   "asset": "ADA",
+   "borrowed": "0.00000000",
+   "free": "0.00000000",
+   "interest": "0.00000000",
+   "locked": "0.00000000",
+   "netAsset": "0.00000000"
+  }
+ ]
+}

@@ -1,0 +1,3 @@
+Arbot idées 
+
+- Mettre les exchanges sous dans un dictionnaire

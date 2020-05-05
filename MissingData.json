@@ -1,0 +1,98 @@
+{
+ "binance_BTCUSDT_1h": [
+  "1581210000000",
+  "1582110000000",
+  "1583312400000",
+  "1587776400000"
+ ],
+ "binance_ETHUSDT_1h": [
+  "1581210000000",
+  "1582110000000",
+  "1583312400000",
+  "1587776400000"
+ ],
+ "binance_ETHUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_DASHUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_BTCUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_XRPUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_BNBUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_TRXUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_LINKUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_EOSUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_ADAUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_ONTUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_USDCUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_ETCUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_LTCUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_XLMUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_XMRUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_NEOUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_ATOMUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_ZECUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_MATICUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_BUSDUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_BATUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_IOSTUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_VETUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_QTUMUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_IOTAUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_XTZUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_BCHUSDT_1m": [
+  "1587779940000"
+ ],
+ "binance_RVNUSDT_1m": [
+  "1587779940000"
+ ]
+}

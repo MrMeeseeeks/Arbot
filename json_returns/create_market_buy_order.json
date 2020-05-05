@@ -1,0 +1,71 @@
+{
+ "info": {
+  "symbol": "QTUMUSDT",
+  "orderId": 107322299,
+  "orderListId": -1,
+  "clientOrderId": "9CrxsZQWmJNH2nMkY44Oyo",
+  "transactTime": 1587981715544,
+  "price": "0.00000000",
+  "origQty": "10.03300000",
+  "executedQty": "10.03300000",
+  "cummulativeQuoteQty": "15.00936800",
+  "status": "FILLED",
+  "timeInForce": "GTC",
+  "type": "MARKET",
+  "side": "BUY",
+  "fills": [
+   {
+    "price": "1.49600000",
+    "qty": "10.03300000",
+    "commission": "0.01003300",
+    "commissionAsset": "QTUM",
+    "tradeId": 9110864
+   }
+  ]
+ },
+ "id": "107322299",
+ "clientOrderId": "9CrxsZQWmJNH2nMkY44Oyo",
+ "timestamp": 1587981715544,
+ "datetime": "2020-04-27T10:01:55.544Z",
+ "lastTradeTimestamp": null,
+ "symbol": "QTUM/USDT",
+ "type": "market",
+ "side": "buy",
+ "price": 1.496,
+ "amount": 10.033,
+ "cost": 15.009367999999998,
+ "average": 1.496,
+ "filled": 10.033,
+ "remaining": 0.0,
+ "status": "closed",
+ "fee": {
+  "cost": 0.010033,
+  "currency": "QTUM"
+ },
+ "trades": [
+  {
+   "info": {
+    "price": "1.49600000",
+    "qty": "10.03300000",
+    "commission": "0.01003300",
+    "commissionAsset": "QTUM",
+    "tradeId": 9110864
+   },
+   "timestamp": null,
+   "datetime": null,
+   "symbol": "QTUM/USDT",
+   "id": null,
+   "order": null,
+   "type": null,
+   "takerOrMaker": null,
+   "side": null,
+   "price": 1.496,
+   "amount": 10.033,
+   "cost": 15.009367999999998,
+   "fee": {
+    "cost": 0.010033,
+    "currency": "QTUM"
+   }
+  }
+ ]
+}

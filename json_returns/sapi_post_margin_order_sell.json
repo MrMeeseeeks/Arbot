@@ -1,0 +1,22 @@
+{
+ "clientOrderId": "IrH5iT2Duq2cR9AUDjR5K7",
+ "cummulativeQuoteQty": "44.90468500",
+ "executedQty": "29.83700000",
+ "fills": [
+  {
+   "commission": "0.04490469",
+   "commissionAsset": "USDT",
+   "price": "1.50500000",
+   "qty": "29.83700000"
+  }
+ ],
+ "orderId": 107306270,
+ "origQty": "29.83700000",
+ "price": "0.00000000",
+ "side": "SELL",
+ "status": "FILLED",
+ "symbol": "QTUMUSDT",
+ "timeInForce": "GTC",
+ "transactTime": 1587975662616,
+ "type": "MARKET"
+}
